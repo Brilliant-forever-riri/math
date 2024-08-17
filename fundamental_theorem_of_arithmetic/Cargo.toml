@@ -1,0 +1,6 @@
+[package]
+name = "fundamental_theorem_of_arithmetic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
