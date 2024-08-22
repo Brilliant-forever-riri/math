@@ -1,0 +1,1 @@
+/home/codingriri/math/modular_arithmetic_divisibility_test/target/debug/modular_arithmetic_divisibility_test: /home/codingriri/math/modular_arithmetic_divisibility_test/src/main.rs
