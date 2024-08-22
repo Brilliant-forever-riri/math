@@ -1,1 +1,0 @@
-/home/codingriri/math/bigint_modular_arithmetic_divisibility/target/debug/bigint_modular_arithmetic_divisibility: /home/codingriri/math/bigint_modular_arithmetic_divisibility/src/main.rs
