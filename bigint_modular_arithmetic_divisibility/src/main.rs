@@ -16,7 +16,7 @@ fn is_divisible_by(number: &str, base: u32, divisor: u64) -> bool {
 
 fn main() {
     let number: &str = "123456789012345678901234567890"; // Example large number in base 10 (decimal)
-    let base: u32 = 17;       // Base of the number (decimal)
+    let base: u32 = 2;       // Base of the number (decimal)
     let divisor: u64 = 123456564687; // Divisor to check for divisibility
 
     if is_divisible_by(number, base, divisor) {
