@@ -10,8 +10,8 @@ fn is_divisible_by(number: &str, base: u32, divisor: u32) -> bool {
 }
 
 fn main() {
-    let number = "1100"; // here the number is in base 2 (binary)
-    let base = 3;        // Base of the number (binary)
+    let number = "1100"; 
+    let base = 7;        // Base of the number 
     let divisor = 23;     // Divisor to check for divisibility
 
     if is_divisible_by(number, base, divisor) {

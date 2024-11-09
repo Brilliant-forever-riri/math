@@ -1,0 +1,1 @@
+/home/codingriri/Dev/math/modular_arithmetic_divisibility_test_polynomial/target/debug/modular_arithmetic_divisibility_test_polynomial: /home/codingriri/Dev/math/modular_arithmetic_divisibility_test_polynomial/src/main.rs
